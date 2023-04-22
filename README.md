@@ -1,4 +1,4 @@
-# Data-Analysis-with-Power-BI
+# Data-Analysis-with-Power-BI [Superstore Sales Analysis]
 
 In this project I carried out data analysis on a superstore dataset, in this project i performed;
 1. Data Cleaning with Power Query
